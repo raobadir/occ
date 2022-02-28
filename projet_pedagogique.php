@@ -12,19 +12,23 @@ include("./header.php");
     <div class="group">
       <div class="content">
         <h6 class="heading font-x3" >Projets pédagogiques de sensibilisation à l'opéra</h6><br/>
-						<h3>Soutenu par la Caisse des Dépôts et Consignations et les Fondations d’entreprise<br />Berger-Levrault et RATP</h3>						
+						<h3>Soutenus par la DRAC Ile-de-France, la Spedidam, les fondations Polycarpe, Ratp, Transdev, et la Caisse des Dépôts et Consignations.</h3>						
 						<img src='photos/projet_pedagogique.jpg' alt="" width="330" height="270" class="imgl borderedbox inspace-5"/>
 							<p>L’éveil des enfants à l’opéra - réalisé en collaboration étroite avec les enseignants - vise
 à développer leur intelligence sensible. L’opéra, ce domaine élitiste et réputé difficile d’accès, devient alors pour eux aussi évident qu’un livre ou qu’un conte.</p>
 <p>Opéra Côté Choeur souhaite participer à la réussite de la médiation entre l’oeuvre et l’enfant en mettant en place les conditions d’une vraie rencontre avec l’art.</p>
 <p>L’opéra, grâce à son visuel très fort et à l’émotion qu’il fait naître, permet de déclencher facilement chez les élèves un éveil, tant à la musique qu’au théâtre.</p>
-		<div class="pro">
-						<a class="documents" href="pros/dossierDecouvertedelOpera.pdf" target="_blank"><img src="images/pdf-dist.png" class="pdf" alt="" />Dossier de présentation du projet pédagogique</a>
+		<div class="pro espaceapres">
+						<a class="documents" href="pros/Dossierdecouverteopera2021.pdf" target="_blank">Dossier de présentation du projet pédagogique</a>
 		</div>
-		<div class="centre"><br /><br />				
+		<div class="centre espaceapres"><br /><br /><br />				
 						<iframe width="560" height="315" src="https://www.youtube.com/embed/VnouIVC9sZ8?rel=0" frameborder="0" allowfullscreen></iframe>
 						<p >Action artistique d'Opéra Côté Choeur au Perreux 2017</p>
-		</div>													
+		</div>	
+		<div><p>En 2021 – 2022, la compagnie Opéra Côté Chœur a développé un projet pédagogique autour d'Orfeo ed Euridice avec :
+<ul><li>L’école primaire Les Blondeaux à l’Hay-les-Roses (94)</li>
+<li>L’école primaire Emile Cote à Gagny (93)</li>
+<li>Le collège Pierre Alviset (Paris 5e)</li><ul></p></div>												
 	  </div>
     </div>
     <!-- ################################################################################################ -->

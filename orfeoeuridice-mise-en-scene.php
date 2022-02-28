@@ -1,5 +1,5 @@
 <?php 
-$page = "productions actuelles";
+$page = "spectacles passes";
 $title =  "Orfeo ed Euridice, production d’Opéra Côté Choeur.";
 $description =  "Orfeo ed Euridice, production d’Opéra Côté Choeur.";
 $bandeau = "photos/bandeau/orfeo.jpg";
@@ -18,7 +18,7 @@ include("./header.php");
 Dans l’opéra de Gluck, l’Amour (Cupidon) joue le rôle d’Ariane. Il est l’initiateur qui guide le
 héros dans cette descente aux enfers.</p><p>Le fil d’Ariane sera le fil conducteur de l’opéra.<br />Les éléments de décor s’inspireront de ce fil symbolique. Fil rouge, fil(s) comme une toile d’araignée dont Orphée doit se dépêtrer au début de l’opéra, fils qui entravent les cerbères aux enfers, fils qui enveloppent, comme dans un cocon, Eurydice aux Champs-Elysées, fils qui permettent à Orphée de retrouver son chemin dans les enfers.</p>
 						<div class="pro">
-							<a class="documents" href="pros/dossier Orfeo 2018.pdf" target="_blank"><img src="images/pdf-dist.png" class="pdf" alt="" />Dossier de présentation</a>
+							<a class="documents" href="pros/dossier orfeo ed Euridice 2022.pdf" target="_blank">Dossier de présentation</a>
 						</div>										
 		</div>
 	</div>					
@@ -33,11 +33,15 @@ héros dans cette descente aux enfers.</p><p>Le fil d’Ariane sera le fil condu
 <div class="wrapper row2">
   <div class="hoc container clear"> 
     <!-- ################################################################################################ -->
-    <article class="one_half first">
+    <article class="one_third first">
       <footer class="btmspace-15"><a href="orfeoeuridice-scenographie.php#orfeo">En savoir plus &raquo;</a></footer>
       <h6 class="heading font-x1">Scénographie</h6>
       <a href="orfeoeuridice-scenographie.php#orfeo"><img src="images/demo/orfeo_scenographie.jpg" alt=""></a></article>
-    <article class="one_half">
+    <article class="one_third">
+      <footer class="btmspace-15"><a href="package/portfolio.php#orfeo">En voir plus &raquo;</a></footer>
+      <h6 class="heading font-x1">Photos du spectacle</h6>
+      <a href="package/portfolio.php#orfeo"><img src="photos/orfeo-photos.jpg" alt=""></a></article>
+    <article class="one_third">
       <footer class="btmspace-15"><a href="orfeoeuridice.php#orfeo">En savoir plus &raquo;</a></footer>
       <h6 class="heading font-x1">Présentation</h6>
       <a href="orfeoeuridice.php#orfeo"><img src="images/demo/orfeo.jpg" alt=""></a></article>	

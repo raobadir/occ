@@ -1,5 +1,5 @@
 <?php 
-$page = "productions actuelles";
+$page = "spectacles passes";
 $title =  "Orfeo ed Euridice, production d’Opéra Côté Choeur.";
 $description =  "Orfeo ed Euridice, production d’Opéra Côté Choeur.";
 $bandeau = "photos/bandeau/orfeo.jpg";
@@ -29,7 +29,7 @@ chaque geste sera signifiant et chorégraphié. La lumière joue évidemment un 
 				Sombre chez les cerbères, séraphique chez les bienheureux, elle est à la fois acteur
 				et objet de la quête d'Orphée.</p>
 						<div class="pro">
-							<a class="documents" href="pros/dossier Orfeo 2018.pdf" target="_blank"><img src="images/pdf-dist.png" class="pdf" alt="" />Dossier de présentation</a>
+							<a class="documents" href="pros/dossier orfeo ed Euridice 2022.pdf" target="_blank">Dossier de présentation</a>
 						</div>		
 		</div>
 	</div>					
@@ -44,11 +44,15 @@ chaque geste sera signifiant et chorégraphié. La lumière joue évidemment un 
 <div class="wrapper row2">
   <div class="hoc container clear"> 
     <!-- ################################################################################################ -->
-    <article class="one_half first">
+    <article class="one_third first">
+      <footer class="btmspace-15"><a href="package/portfolio.php#orfeo">En voir plus &raquo;</a></footer>
+      <h6 class="heading font-x1">Photos du spectacle</h6>
+      <a href="package/portfolio.php#orfeo"><img src="photos/orfeo-photos.jpg" alt=""></a></article>
+    <article class="one_third">
       <footer class="btmspace-15"><a href="orfeoeuridice.php#orfeo">En savoir plus &raquo;</a></footer>
       <h6 class="heading font-x1">Présentation</h6>
       <a href="orfeoeuridice.php#orfeo"><img src="images/demo/orfeo.jpg" alt=""></a></article>	
-    <article class="one_half">
+    <article class="one_third">
       <footer class="btmspace-15"><a href="orfeoeuridice-mise-en-scene.php#orfeo">En savoir plus &raquo;</a></footer>
       <h6 class="heading font-x1">Mise en scène</h6>
       <a href="orfeoeuridice-mise-en-scene.php#orfeo"><img src="images/demo/orfeo_miseenscene.jpg" alt=""></a></article>

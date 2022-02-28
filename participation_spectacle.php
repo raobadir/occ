@@ -26,9 +26,9 @@ musique, de participer à la création d’un de nos spectacles « jeune public 
 							<img src='photos/participation_spectacle.jpg' alt="" width="456" height="303"/>
 							<p>Carmen, en 2014</p>
 						</div>
-					<div class="pro">
-						<a class="documents" href="pros/dossierDecouvertedelOpera.pdf" target="_blank"><img src="images/pdf-dist.png" class="pdf" alt="" />Dossier de présentation du projet pédagogique</a>
-					</div>							
+		<div class="pro">
+						<a class="documents" href="pros/Dossierdecouverteopera2021.pdf" target="_blank">Dossier de présentation du projet pédagogique</a>
+		</div>						
 </div>
     </div>
     <!-- ################################################################################################ -->
